@@ -1,2 +1,3 @@
 # Research-Assignment-1
-this is a research assignment for BrightLearn
+This is a first research assignment from Brightlearn which focused on Foundations on Data  including tool & ethics.
+this research also touch base on Artificial Intelligence and Machine Learning.
